@@ -1,15 +1,11 @@
-
 <div align="center">
   <a href="https://github.com/mazzasaverio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzasaverio&show_icons=true&theme=tokyonight&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzasaverio&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzasaverio&layout=compact&theme=tokyonight" />
   </a>
   
   <br/>
   
-  <a href="https://github.com/mazzasaverio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazzasaverio&theme=tokyonight" alt="GitHub Streak Stats" />
-  </a>
 </div>
 
 ## 🛠 Solving problems with
