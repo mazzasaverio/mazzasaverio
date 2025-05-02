@@ -58,16 +58,3 @@
   <img src="https://img.shields.io/badge/-PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
-## 📚 Learning about
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache_Iceberg-0082C9?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dagster-6933FF?style=flat-square&logo=dagster&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;
-  
-</div>
-
