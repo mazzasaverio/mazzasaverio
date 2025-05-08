@@ -13,10 +13,7 @@
 - staying passionate
 - reading books and good articles
 - deepening my understanding of system design and data engineering patterns
-- coding
-- processing data and building pipelines
-
-- and using cool stuffs:
+- coding, processing data and building pipelines using cool stuffs:
 
 <div align="center">
 
