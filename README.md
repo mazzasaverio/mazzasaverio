@@ -8,7 +8,14 @@
   
 </div>
 
-## 🛠 Solving problems with
+## Trying to solve problems with
+
+- passion and curiosity
+- by constantly reading and studying
+- coding
+- processing data and building pipelines
+
+and using:
 
 <div align="center">
 
