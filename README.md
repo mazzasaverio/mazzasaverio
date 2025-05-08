@@ -8,14 +8,15 @@
   
 </div>
 
-## Trying to solve problems with
+## Trying to solve problems by constantly:
 
-- passion and curiosity
-- by constantly reading and studying
+- staying passionate
+- reading books and good articles
+- deepening my understanding of system design and data engineering patterns
 - coding
 - processing data and building pipelines
 
-and using:
+- and using cool stuffs:
 
 <div align="center">
 
