@@ -10,9 +10,9 @@
 
 ## Trying to solve problems by constantly:
 
-- staying passionate
+- staying passionate and curious
 - reading books and good articles
-- deepening my understanding of system design and data engineering patterns
+- deepening my understanding of system design and data engineering design patterns
 - coding, processing data and building pipelines using cool stuffs:
 
 <div align="center">
