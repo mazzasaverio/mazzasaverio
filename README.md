@@ -1,4 +1,9 @@
 <div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mazzasaverio&color=blueviolet&style=flat)
+  
+  <br/>
+  
   <a href="https://github.com/mazzasaverio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazzasaverio&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzasaverio&layout=compact&theme=tokyonight" />
@@ -62,4 +67,3 @@
   <img src="https://img.shields.io/badge/-Pinecone-007D9C?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/-PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
-
