@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a Software Engineer based in Milan, specializing in Data Engineering and Backend Development. I'm interested in understanding how to build better, more valuable, and scalable products.
+I'm a Software Engineer based in Milan, specializing in Data Engineering and Backend Development, focused on building more useful, valuable, and scalable products.
 
 After studying Physics and Quantitative Finance, I've worked across banking, real estate, and manufacturing.
 
