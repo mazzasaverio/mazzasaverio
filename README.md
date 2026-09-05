@@ -1,11 +1,11 @@
-I'm a Software Engineer based in Milan, specializing in Data Engineering and Backend Development.
+Sono un ingegnere del software con base a Milano, specializzato in data engineering e sviluppo backend.
 
-After studying Physics and Quantitative Finance, I've worked across banking, real estate, and manufacturing.
+Dopo gli studi in fisica e finanza quantitativa, ho lavorato nei settori bancario, immobiliare e manifatturiero.
 
-Today, I'm leading the development of a SaaS data platform in the pharmaceutical sector.
+Oggi guido lo sviluppo di una piattaforma dati SaaS nel settore farmaceutico.
 
-In my free time, I read as much as I can, meet and talk with people, explore new ideas, and run small experiments.
+Nel tempo libero leggo il più possibile, incontro e parlo con le persone, esploro nuove idee e porto avanti piccoli esperimenti.
 
-Feel free to reach out if you'd like to connect.
+Scrivimi se ti va di entrare in contatto.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mazzasaverio&color=blueviolet&style=flat)
